@@ -1,4 +1,4 @@
-# harinlyu.github.io
+# [View my portfolio webiste](https://harinlyu.github.io/)
 
 # Portfolio Website for Harin Lyu (류하인)
 
