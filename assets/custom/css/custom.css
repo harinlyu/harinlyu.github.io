@@ -3310,6 +3310,7 @@ a.toggle-menu {
   overflow: hidden;
   position: relative;
 }
+
 .image-container img {
   transition: all ease-in-out 0.4s;
   -o-transition: all ease-in-out 0.4s;
