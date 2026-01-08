@@ -33,7 +33,7 @@
 */
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 /*************** search icon *********************/
 #search {
@@ -730,7 +730,7 @@ body {
   -moz-transition: all ease-in-out 0.3s;
 }
 .fables-product-btn:hover {
-  color: #e54d42;
+  color: #c4c4c4;
 }
 .fables-store-left-head {
   font-size: 16px;
@@ -2947,11 +2947,11 @@ a:hover,
   color: #fff;
 }
 .fables-second-text-color {
-  color: #e54d42;
+  color: #a7a7a7;
 }
 .fables-second-hover-color:hover,
 .fables-second-hover-color-link a:hover {
-  color: #e54d42;
+  color: #c4c4c4;
 }
 .fables-second-border-color {
   border-color: #e54d42 !important;
@@ -2959,7 +2959,7 @@ a:hover,
 .fables-second-hover-text-color:hover .fables-main-text-color,
 .fables-second-hover-color:hover .fables-third-text-color,
 .fables-second-hover-text-color:hover .fables-fifth-border-color {
-  color: #e54d42 !important;
+  color: #c1c1c1 !important;
 }
 .fables-second-hover-text-color:hover .fables-forth-text-color {
   border-color: #e54d42;
